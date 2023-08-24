@@ -30,4 +30,27 @@
 
 
 ### To run 
+
+```
+git clone https://github.com/hameedg/steinbeis_india.git
+
+cd steinbeis_india
+
+For Frontend
+cd frontend
+npm install
+
+cd ..
+cd backend
+npm install
+
+run both the servers
+
+for frontend
+npm start
+
+ for backend
+npm run dev
+
+```
    
